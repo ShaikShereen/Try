@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\bin\Debug\EmployeePhoneBook.Entities.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\bin\Debug\EmployeePhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\obj\Debug\EmployeePhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\obj\Debug\EmployeePhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.Entities\obj\Debug\EmployeePhoneBook.Entities.pdb

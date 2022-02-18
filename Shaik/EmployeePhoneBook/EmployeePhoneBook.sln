@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePhoneBook.PresentationLayer", "EmployeePhoneBook.PresentationLayer\EmployeePhoneBook.PresentationLayer.csproj", "{4CEEDCBC-BCC9-4F8A-977F-2F9555E39D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePhoneBook.BusinessLayer", "EmployeePhoneBook.BusinessLayer\EmployeePhoneBook.BusinessLayer.csproj", "{BD2D9AC0-1E7B-431C-B376-2EAB0372B3AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePhoneBook.DataAccessLayer", "EmployeePhoneBook.DataAccessLayer\EmployeePhoneBook.DataAccessLayer.csproj", "{A7510D0B-B04C-4B47-B426-BEBA02CACB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePhoneBook.Entities", "EmployeePhoneBook.Entities\EmployeePhoneBook.Entities.csproj", "{F5BE4A4E-CC31-40A4-A3DD-A6C75D29B0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePhoneBook.Exceptions", "EmployeePhoneBook.Exceptions\EmployeePhoneBook.Exceptions.csproj", "{5C3277F5-7CC6-4341-BB68-7BE4169F223C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEEDCBC-BCC9-4F8A-977F-2F9555E39D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEEDCBC-BCC9-4F8A-977F-2F9555E39D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEEDCBC-BCC9-4F8A-977F-2F9555E39D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEEDCBC-BCC9-4F8A-977F-2F9555E39D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2D9AC0-1E7B-431C-B376-2EAB0372B3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2D9AC0-1E7B-431C-B376-2EAB0372B3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2D9AC0-1E7B-431C-B376-2EAB0372B3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2D9AC0-1E7B-431C-B376-2EAB0372B3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7510D0B-B04C-4B47-B426-BEBA02CACB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7510D0B-B04C-4B47-B426-BEBA02CACB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7510D0B-B04C-4B47-B426-BEBA02CACB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7510D0B-B04C-4B47-B426-BEBA02CACB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BE4A4E-CC31-40A4-A3DD-A6C75D29B0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BE4A4E-CC31-40A4-A3DD-A6C75D29B0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BE4A4E-CC31-40A4-A3DD-A6C75D29B0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BE4A4E-CC31-40A4-A3DD-A6C75D29B0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3277F5-7CC6-4341-BB68-7BE4169F223C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3277F5-7CC6-4341-BB68-7BE4169F223C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3277F5-7CC6-4341-BB68-7BE4169F223C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3277F5-7CC6-4341-BB68-7BE4169F223C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {394773A8-D3CE-4163-A969-B109CD69BC38}
+	EndGlobalSection
+EndGlobal

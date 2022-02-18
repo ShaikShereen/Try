@@ -1,0 +1,34 @@
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.pdb
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.exe.config
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.exe
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.BusinessLayer.pdb
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.exe
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.pdb
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe.config
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Entities.exe.config
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe.config
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.csproj.CopyComplete
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.exe
+C:\Users\Irfan\Desktop\Trail\EmployeePhoneBook\EmployeePhoneBook.BusinessLayer\obj\Debug\EmployeePhoneBook.BusinessLayer.pdb

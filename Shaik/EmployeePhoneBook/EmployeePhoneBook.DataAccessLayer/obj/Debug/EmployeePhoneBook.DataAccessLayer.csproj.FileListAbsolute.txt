@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.DataAccessLayer.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Entities.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.pdb
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\bin\Debug\EmployeePhoneBook.Exceptions.exe.config
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.exe
+C:\Users\admin\source\repos\LTTS\Employee Phone Book\EmployeePhoneBook.DataAccessLayer\obj\Debug\EmployeePhoneBook.DataAccessLayer.pdb
